@@ -1,0 +1,5 @@
+{
+    "name": "Windows 11 Emulator",
+    "main": "electron-main.js",
+    "version": "11.2.1073"
+}
